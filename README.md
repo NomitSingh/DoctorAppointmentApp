@@ -1,2 +1,2 @@
 # DoctorAppointmentApp
- A doctor appointment app using core java can be developed to facilitate the functionality for the patient to book an appointment with a doctor and maintain details about patient and hospital. The app can have a login page for doctors and patients .
+ A doctor appointment app using core java can be developed to facilitate the functionality for the patient to book an appointment with a doctor and maintain details about patient and hospital. The app can have a login page for doctors and patients where doctors can set their available slots during different days of the week and Patients can view these slots with the doctor of their choice and select the one which is convenient for them to book an appointment1.
